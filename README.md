@@ -5,8 +5,10 @@
 
 | Date |  Title  | Image|
 |------|--------|-------|
+| April 13, 2025 | [Python Development: Leveraging Functions with Lambdas, Generators, Closures, & Decorators](https://skillsoft.digitalbadges.skillsoft.com/5fa521c2-c79b-4e5f-b985-5faef9e41978#acc.YxcjpoQ8)| ![Image](images/3929e515-9345-458c-be59-ae8970430554.png)|
+| December 6, 2024 | [Building Data Pipelines (Apache Airflow)](https://skillsoft.digitalbadges.skillsoft.com/a7b59081-b146-4806-b2b0-9f80ebc90aea#acc.mvdQeMgr)| ![Image](images/603239b3-6183-47c2-bdc8-c74257fa76ab.png)|
 | July 8, 2024 | [Security Programming: Bash Scripting Essentials](https://skillsoft.digitalbadges.skillsoft.com/da55ccb4-f68b-4554-8c42-aa667784bb98#acc.FE6Cm3jx)| ![Image](images/8dcfce74-1006-4017-b366-d5a634673057.png)|
-| October 5, 2023 | [DevOps for Engineering Leaders: Managing, Monitoring, & Securing the Pipeline](https://skillsoft.digitalbadges.skillsoft.com/29613399-85bc-49d1-9993-322431b694b0#acc.oqu4pjUK)| ![Image](images/95679421-e86a-4561-864f-77fc8454f1dd.png)|
+| October 11, 2023 | [DevOps for Engineering Leaders: Managing, Monitoring, & Securing the Pipeline](https://skillsoft.digitalbadges.skillsoft.com/29613399-85bc-49d1-9993-322431b694b0#acc.oqu4pjUK)| ![Image](images/95679421-e86a-4561-864f-77fc8454f1dd.png)|
 | October 5, 2023 | [Installation, Express-generator, & API](https://skillsoft.digitalbadges.skillsoft.com/ed3df995-29fe-4110-a111-a437e868d86f#acc.BlR6KHxp)| ![Image](images/d1a578f8-7b25-43fd-9a3f-43e39bc52f71.png)|
 | September 29, 2023 | [Conditional Statements & Loops: If-else Control Structures in Python](https://skillsoft.digitalbadges.skillsoft.com/140a3105-4992-400b-9607-39dfdf70c964#acc.lTtpnYU5)| ![Image](images/0d363b4f-37dd-4948-b6c8-897e98b9e258.png)|
 | September 29, 2023 | [Complex Data Types in Python: Shallow & Deep Copies in Python](https://skillsoft.digitalbadges.skillsoft.com/80a4b690-9c67-4a9e-a035-32f6cf3ddcae#acc.qFAfQBst)| ![Image](images/2a6ce969-0f14-4b0f-b878-95b65fc6da55.png)|
